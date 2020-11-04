@@ -2,11 +2,11 @@
 <h3>  Herramienta para bombardear correos electrónicos usando su Gmail. <strong>(Hecho con fines educativos, no me hago responsable)</strong></h3>
 <br/>
 <p align="center">
-<img src="https://imgur.com/t8H61TE.jpg" title="CITTZ">
+<img src="https://imgur.com/a/ruAcTOw" title="Gmail-Bomber">
 </p>
 <br/>
 
-<img src="https://imgur.com/a/ruAcTOw.jpg"> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> <img src="https://imgur.com/mCapHNr.jpg"> <img src="https://imgur.com/4mZdxc8.jpg"> <img src="https://imgur.com/x4ikBPI.jpg">
+<img src=""> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> <img src="https://imgur.com/mCapHNr.jpg"> <img src="https://imgur.com/4mZdxc8.jpg"> <img src="https://imgur.com/x4ikBPI.jpg">
 <br/>
 ## Sistemas Operativos compatibles  
 
