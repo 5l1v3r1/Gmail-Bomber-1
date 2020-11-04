@@ -1,4 +1,4 @@
-# CITTZ 
+# Gmail-Bomber
 <h3>  Herramienta para bombardear correos electrónicos usando su Gmail. <strong>(Hecho con fines educativos, no me hago responsable)</strong></h3>
 <br/>
 <p align="center">
