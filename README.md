@@ -29,7 +29,7 @@
 
 | Menu principal |
 | -------------- |   
-|<img src="https://imgur.com/2RvFBmc.jpg">
+|<img src="https://imgur.com/2RvFBmc.jpg"> |
 <br />
 | Opcion1 (1)    | Opcion 1 (2) |	
 | -------------- | ---------------------- |   
