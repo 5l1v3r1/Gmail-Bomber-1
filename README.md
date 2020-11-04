@@ -23,7 +23,21 @@
 
 * Ir a Code y dar click en Download ZIP
 
+# Como usarla
+
+* Cree una nueva cuenta de Gmail y active el acceso de aplicaciones poco seguras. <a href="https://docs.rocketbot.co/?p=1567"> ¿Como activarlo? </a>
+
 * Ejecutar el archivo Gmail-Bomber.bat
+
+# Opcion 1
+
+* Escribe la direccion de la cuenta de Gmail que acabaste de crear.
+* Escribe la contraseña de la cuenta de Gmail.
+* Escribe el correo destinatario al que le llegaran los emails.
+
+* Escribe el titulo que tendran los correos.
+* Escribe los mensajes que tendran los correos.
+* Selecciona el tiempo que tardara en enviar cada email.
 
 ## Screenshots
 <img src="https://imgur.com/Cx8EP5Y.jpg">
