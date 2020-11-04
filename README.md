@@ -26,10 +26,10 @@
 * Ejecutar el archivo Gmail-Bomber.bat
 
 ## Screenshots
+<img src="https://imgur.com/Cx8EP5Y.jpg">
+<br />
+<img src="https://imgur.com/29gAsUl.jpg">
 
-| Menu principal | Opcion 1 |
-| -------------- |   
-|<img src="https://imgur.com/2RvFBmc.jpg"> | <img src="https://imgur.com/Cx8EP5Y.jpg">
 
 ## Tutorial 
 
