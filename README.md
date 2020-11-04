@@ -27,7 +27,9 @@
 
 ## Screenshots
 
-<img src="https://imgur.com/2RvFBmc.jpg">
+| Menu principal | Menu opcion1 |	
+| -------------- | ---------------------- |   
+|<img src="https://imgur.com/2RvFBmc.jpg">
 
 ## Tutorial 
 
