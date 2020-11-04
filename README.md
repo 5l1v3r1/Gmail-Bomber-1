@@ -2,7 +2,7 @@
 <h3>  Herramienta para bombardear correos electrónicos usando su Gmail. <strong>(Hecho con fines educativos, no me hago responsable)</strong></h3>
 <br/>
 <p align="center">
-<img src="https://imgur.com/Ykr53kA.jpg" title="Gmail-Bomber">
+<img src="https://imgur.com/2RvFBmc.jpg" title="Gmail-Bomber">
 </p>
 <br/>
 
@@ -17,35 +17,22 @@
 | Windows 8.1  | Compatible    |
 | Windows 8    | Compatible    |
 | Windows 7    | Compatible    |
-| Windows XP   | Compatible    |
+| Windows XP   |    ???        |
 
 ## Instalacion 
 
 * Ir a Code y dar click en Download ZIP
 
-* Ejecutar el archivo CITTZ.bat
-
-# Novedades (v1.1)
-
-**1) Compatiblidad**
-
-* CITTZ ahora es compatible con Windows 7/Vista
-
-**2) Bugs**
-
-* Se arreglaron algunos bugs que habian en las opciones <l>1</l> y <l>2</l>
+* Ejecutar el archivo Gmail-Bomber.bat
 
 ## Screenshots
 
-<img src="https://imgur.com/4iF5eiK.jpg">
+<img src="https://imgur.com/2RvFBmc.jpg">
 
 ## Tutorial 
 
 <p> No disponible.</p>
 
-## Contribuidores: 
-
-- <a href="https://github.com/oscarsanchezt"> Osososo </a>
 ## Licencia 
 
 MIT License
