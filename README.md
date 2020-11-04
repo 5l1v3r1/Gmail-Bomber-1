@@ -27,9 +27,14 @@
 
 ## Screenshots
 
-| Menu principal | Menu opcion1 |	
-| -------------- | ---------------------- |   
+| Menu principal |
+| -------------- |   
 |<img src="https://imgur.com/2RvFBmc.jpg">
+<br />
+| Opcion1 (1)    | Opcion 1 (2) |	
+| -------------- | ---------------------- |   
+|<img src="https://imgur.com/Cx8EP5Y.jpg">|<img src="https://imgur.com/2RvFBmc.jpg">
+
 
 ## Tutorial 
 
